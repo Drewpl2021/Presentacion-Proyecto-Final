@@ -1,0 +1,7 @@
+01;Nike;Blanco;35;Masculino;50
+02;Nike;Blanco;30;Masculino;80
+03;Puma;Negro;40;Masculino;20
+04;Adidas;Rojo;34;Masculino;60
+05;Puma;Amarillo;34;Femenino;30
+06;Adidas;Azul;37;Famenino;65
+07;Puma;Blanco;29;Femenino;60
