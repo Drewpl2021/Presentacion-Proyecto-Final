@@ -1,3 +1,5 @@
+#Me costo subir al git hub
+#Alegre de terminar y presentar correctamente el Proyecto
 from productos import productos
 from login import main
 from clientes import gestionClientes
